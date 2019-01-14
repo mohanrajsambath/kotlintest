@@ -1,4 +1,4 @@
-buildscript {
+updated
     ext.jackson_version = '2.9.6'
 }
 
